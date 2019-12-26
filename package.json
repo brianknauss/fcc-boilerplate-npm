@@ -1,6 +1,6 @@
 {
-	"author": "Brian Knauss",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Brian Knauss",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -17,8 +17,4 @@
 	}
 	
 	
-}
-
-{
-	"author": "Brian Knauss",
 }
